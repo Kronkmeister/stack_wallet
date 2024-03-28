@@ -22,6 +22,7 @@ Highlights include:
     - [Namecoin](https://www.namecoin.org/)
     - [Particl](https://particl.io/)
     - [Wownero](https://wownero.org/)
+    - [eCash](https://e.cash/)
 - All private keys and seeds stay on device and are never shared.
 - Easy backup and restore feature to save all the information that's important to you.
 - Trading cryptocurrencies through our partners.
